@@ -5,8 +5,8 @@
       "caption": "Abzas Media – müstəqil jurnalist araşdırmaları və təzyiqlər"
     },
     "text": {
-      "headline": "Abzas Media hadisələri (2016-2025)",
-      "text": "Abzas Media 2016-cı ildə yaradılmış müstəqil onlayn media qurumudur və 2022–2023-cü illərdə Azərbaycanda yüksək vəzifəli şəxslərin korrupsiya əməllərini ifşa edən çoxsaylı jurnalist araşdırmaları ilə tanınıb. Xüsusilə Prezident İlham Əliyevin ailəsi, yüksək vəzifəli məmurlar və böyük biznes qurumları ilə bağlı araşdırmalar aparıb."
+      "headline": "Abzas Media hadisələri (2016–2025)",
+      "text": "Abzas Media 2016-cı ildə yaradılmış müstəqil onlayn media qurumudur və 2022–2023-cü illərdə Azərbaycanda yüksək vəzifəli şəxslərin korrupsiya əməllərini ifşa edən çoxsaylı jurnalist araşdırmaları ilə tanınıb."
     }
   },
   "events": [
@@ -26,7 +26,7 @@
       "start_date": {"year": "2022", "month": "1", "day": "1"},
       "text": {
         "headline": "Korrupsiya araşdırmaları başlayır",
-        "text": "Abzas Media Prezident İlham Əliyevin ailəsi və yüksək vəzifəli məmurlarla bağlı ciddi korrupsiya araşdırmalarına başlayır."
+        "text": "Prezident İlham Əliyevin ailəsi və yüksək vəzifəli məmurlarla bağlı ciddi korrupsiya araşdırmalarına start verildi."
       },
       "media": {
         "url": "https://raw.githubusercontent.com/subhanchess/Abzasmedia/main/images/photo_2024-12-24_13.05.52.jpeg",
@@ -37,44 +37,33 @@
     {
       "start_date": {"year": "2023", "month": "11", "day": "21"},
       "text": {
-        "headline": "Baş redaktor Sevinc Vaqifqızının həbsi",
-        "text": "Sevinc Vaqifqızı İstanbuldan qayıdarkən polis tərəfindən saxlanıldı və qaçaqmalçılıq ittihamı ilə həbs edildi."
+        "headline": "Sevinc Vaqifqızının həbsi",
+        "text": "İstanbuldan qayıdarkən hava limanında saxlanıldı və qaçaqmalçılıq ittihamı ilə həbs olundu."
       },
       "media": {
-        "url": " https://https://www.youtube.com/watch?v=C5eU28KygXk",
-        "caption": "Sevinc Vaqifqızı məhkəmədə"
+        "url": "https://www.youtube.com/watch?v=C5eU28KygXk",
+        "caption": "Sevinc Vaqifqızının məhkəmə çıxışı",
+        "source": "youtube"
       },
       "group": "Həbslər"
     },
     {
       "start_date": {"year": "2023", "month": "11", "day": "22"},
       "text": {
-        "headline": "Beynəlxalq təşkilatların reaksiyası",
-        "text": "HRW və Amnesty International jurnalistlərin həbslərini pisləyən açıqlamalar verdi."
+        "headline": "Beynəlxalq reaksiyalar",
+        "text": "HRW və Amnesty jurnalistlərin həbslərini pisləyən bəyanatlar yaydı."
       },
       "media": {
-        "url": "https://raw.githubusercontent.com/subhanchess/Abzasmedia/main/images/observerbd.com_1649478014_TsHh.jpg",   
+        "url": "https://raw.githubusercontent.com/subhanchess/Abzasmedia/main/images/observerbd.com_1649478014_TsHh.jpg",
         "caption": "HRW bəyanatı"
       },
       "group": "Beynəlxalq reaksiya"
     },
     {
-      "start_date": {"year": "2023", "month": "11", "day": "23"},
-      "text": {
-        "headline": "Kəkalov və Absalamova ilə bağlı qərarlar",
-        "text": "Məhəmməd Kəkalov həbs edildi, Nərgiz Absalamova isə şahid qismində çağırıldı."
-      },
-      "media": {
-        "url": "https://abzas.org/wp-content/uploads/2023/11/court.jpg",
-        "caption": "Məhkəmə prosesi"
-      },
-      "group": "Məhkəmə prosesi"
-    },
-    {
       "start_date": {"year": "2023", "month": "11", "day": "30"},
       "text": {
-        "headline": "Nərgiz Absalamovanın həbsi",
-        "text": "Absalamova qaçaqmalçılıq ittihamı ilə saxlanıldı."
+        "headline": "Absalamovanın həbsi",
+        "text": "Nərgiz Absalamova polis tərəfindən saxlanıldı və qaçaqmalçılıq ittihamı irəli sürüldü."
       },
       "media": {
         "url": "https://jam-news.net/images/absalamova_arrest.jpg",
@@ -86,7 +75,7 @@
       "start_date": {"year": "2023", "month": "12", "day": "13"},
       "text": {
         "headline": "Hafiz Babalının həbsi",
-        "text": "Babalı iqtisadi mövzular üzrə yazıları səbəbiylə həbs edildi."
+        "text": "İqtisadi yazılarına görə saxlanılan Hafiz Babalı barəsində də 206.3.2 ilə cinayət işi açıldı."
       },
       "media": {
         "url": "https://abzas.org/wp-content/uploads/2023/12/hafiz_babali_arrest.jpg",
@@ -98,7 +87,7 @@
       "start_date": {"year": "2024", "month": "1", "day": "15"},
       "text": {
         "headline": "Elnarə Qasımovanın həbsi",
-        "text": "Jurnalist Elnarə Qasımova da həbs edildi."
+        "text": "Qasımova istintaq sonrası həbs edildi və o da eyni ittihamla üzləşdi."
       },
       "media": {
         "url": "https://jam-news.net/images/elnare_qasimova_court.jpg",
@@ -109,24 +98,24 @@
     {
       "start_date": {"year": "2024", "month": "12", "day": "17"},
       "text": {
-        "headline": "Məhkəmə prosesinin başlanması",
-        "text": "Bakı Ağır Cinayətlər Məhkəməsində Abzas Media işi üzrə məhkəmə başladı."
+        "headline": "Məhkəmə prosesi başladı",
+        "text": "Abzas Media əməkdaşlarının cinayət işi üzrə məhkəmə prosesi baş tutdu."
       },
       "media": {
         "url": "https://jam-news.net/images/abzas_media_court_trial.jpg",
-        "caption": "Məhkəmə prosesi"
+        "caption": "Məhkəmə zalı"
       },
       "group": "Məhkəmə prosesi"
     },
     {
       "start_date": {"year": "2025", "month": "4", "day": "1"},
       "text": {
-        "headline": "Beynəlxalq dəstək və nəticələr",
-        "text": "ABŞ və beynəlxalq təşkilatlar jurnalistlərin dərhal sərbəst buraxılmasını tələb etdilər."
+        "headline": "Beynəlxalq dəstək və nəticə",
+        "text": "Blinken və beynəlxalq təşkilatlar jurnalistlərin azadlığını tələb etdilər."
       },
       "media": {
         "url": "https://rsf.org/sites/default/files/styles/main_image_square/public/2024-international-reaction.jpg",
-        "caption": "Blinkenin bəyanatı"
+        "caption": "Blinkenin çıxışı"
       },
       "group": "Beynəlxalq reaksiya"
     }
