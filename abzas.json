@@ -14,26 +14,26 @@
   },
   "eras": [
     {
-      "start_date": { "year": "2016" },
-      "end_date": { "year": "2016" },
+      "start_date": { "year": "2016", "month": "1", "day": "1" },
+      "end_date": { "year": "2016", "month": "12", "day": "31" },
       "text": { "headline": "Yarandığı Tarix" },
       "background": { "color": "#3b82f6" }
     },
     {
-      "start_date": { "year": "2022" },
-      "end_date": { "year": "2023" },
+      "start_date": { "year": "2022", "month": "1", "day": "1" },
+      "end_date": { "year": "2023", "month": "12", "day": "31" },
       "text": { "headline": "Araşdırmalar" },
       "background": { "color": "#3b82f6" }
     },
     {
-      "start_date": { "year": "2023", "month": "11" },
-      "end_date": { "year": "2024", "month": "2" },
+      "start_date": { "year": "2023", "month": "11", "day": "1" },
+      "end_date": { "year": "2024", "month": "2", "day": "28" },
       "text": { "headline": "Həbslər" },
       "background": { "color": "#3b82f6" }
     },
     {
-      "start_date": { "year": "2023", "month": "12" },
-      "end_date": { "year": "2025", "month": "1" },
+      "start_date": { "year": "2023", "month": "12", "day": "1" },
+      "end_date": { "year": "2025", "month": "1", "day": "31" },
       "text": { "headline": "Məhkəmə Prosesi" },
       "background": { "color": "#3b82f6" }
     },
@@ -55,7 +55,21 @@
         "url": "https://raw.githubusercontent.com/subhanchess/Abzasmedia/main/images/images-2.jpeg",
         "caption": "Abzas Media loqosu"
       },
-      "group": "Yarandığı Tarix"
+      "group": "Yarandığı Tarix",
+      "background": { "color": "#3b82f6" }
+    },
+    {
+      "start_date": { "year": "2022", "month": "1", "day": "1" },
+      "text": {
+        "headline": "Korrupsiya araşdırmaları başlayır",
+        "text": "Prezident İlham Əliyevin ailəsi və yüksək vəzifəli məmurlarla bağlı ciddi korrupsiya araşdırmaları başladı."
+      },
+      "media": {
+        "url": "https://raw.githubusercontent.com/subhanchess/Abzasmedia/main/images/photo_2024-12-24_13.05.52.jpeg",
+        "caption": "Araşdırmaların başlanması"
+      },
+      "group": "Araşdırmalar",
+      "background": { "color": "#3b82f6" }
     },
     {
       "start_date": { "year": "2023", "month": "11", "day": "21" },
@@ -65,9 +79,37 @@
       },
       "media": {
         "url": "https://img.youtube.com/vi/C5eU28KygXk/maxresdefault.jpg",
-        "caption": "Sevinc Vaqifqızı məhkəmədə"
+        "caption": "Sevinc Vaqifqızı məhkəmədə",
+        "thumbnail": "https://img.youtube.com/vi/C5eU28KygXk/default.jpg"
       },
-      "group": "Həbslər"
+      "group": "Həbslər",
+      "background": { "color": "#3b82f6" }
+    },
+    {
+      "start_date": { "year": "2023", "month": "12", "day": "13" },
+      "text": {
+        "headline": "Hafiz Babalının həbsi",
+        "text": "Babalı iqtisadi mövzular üzrə yazıları səbəbiylə həbs edildi."
+      },
+      "media": {
+        "url": "https://abzas.org/wp-content/uploads/2023/12/hafiz_babali_arrest.jpg",
+        "caption": "Babalının saxlanılması"
+      },
+      "group": "Həbslər",
+      "background": { "color": "#3b82f6" }
+    },
+    {
+      "start_date": { "year": "2025", "month": "4", "day": "1" },
+      "text": {
+        "headline": "Beynəlxalq dəstək və nəticələr",
+        "text": "ABŞ və beynəlxalq təşkilatlar jurnalistlərin dərhal sərbəst buraxılmasını tələb etdilər."
+      },
+      "media": {
+        "url": "https://rsf.org/sites/default/files/styles/main_image_square/public/2024-international-reaction.jpg",
+        "caption": "Blinkenin bəyanatı"
+      },
+      "group": "Beynəlxalq Reaksiya",
+      "background": { "color": "#3b82f6" }
     }
   ]
 }
