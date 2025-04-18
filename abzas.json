@@ -14,32 +14,32 @@
   },
   "eras": [
     {
-      "start_date": { "year": "2016" },
-      "end_date": { "year": "2016" },
+      "start_date": { "year": "2016", "month": "1", "day": "1" },
+      "end_date": { "year": "2016", "month": "12", "day": "31" },
       "text": { "headline": "Yarandığı Tarix" },
       "background": { "color": "#4ade80" }
     },
     {
-      "start_date": { "year": "2022" },
-      "end_date": { "year": "2023" },
+      "start_date": { "year": "2022", "month": "1", "day": "1" },
+      "end_date": { "year": "2023", "month": "12", "day": "31" },
       "text": { "headline": "Araşdırmalar" },
       "background": { "color": "#3b82f6" }
     },
     {
-      "start_date": { "year": "2023", "month": "11" },
-      "end_date": { "year": "2024", "month": "2" },
+      "start_date": { "year": "2023", "month": "11", "day": "1" },
+      "end_date": { "year": "2024", "month": "2", "day": "29" },
       "text": { "headline": "Həbslər" },
       "background": { "color": "#ef4444" }
     },
     {
-      "start_date": { "year": "2023", "month": "12" },
-      "end_date": { "year": "2025", "month": "1" },
+      "start_date": { "year": "2023", "month": "12", "day": "1" },
+      "end_date": { "year": "2025", "month": "1", "day": "31" },
       "text": { "headline": "Məhkəmə Prosesi" },
       "background": { "color": "#8b5cf6" }
     },
     {
-      "start_date": { "year": "2023", "month": "11" },
-      "end_date": { "year": "2025", "month": "4" },
+      "start_date": { "year": "2023", "month": "11", "day": "22" },
+      "end_date": { "year": "2025", "month": "4", "day": "1" },
       "text": { "headline": "Beynəlxalq Reaksiya" },
       "background": { "color": "#0ea5e9" }
     }
@@ -79,8 +79,7 @@
       },
       "media": {
         "url": "https://img.youtube.com/vi/C5eU28KygXk/maxresdefault.jpg",
-        "caption": "Sevinc Vaqifqızı məhkəmədə",
-        "thumbnail": "https://img.youtube.com/vi/C5eU28KygXk/default.jpg"
+        "caption": "Sevinc Vaqifqızı məhkəmədə"
       },
       "group": "Həbslər",
       "background": { "color": "#ef4444" }
