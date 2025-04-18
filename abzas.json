@@ -5,10 +5,45 @@
       "caption": "Abzas Media – müstəqil jurnalist araşdırmaları və təzyiqlər"
     },
     "text": {
-      "headline": "Abzas Media Hadisələri (2016–2025)",
-      "text": "AbzasMedia 2016-cı ildə bir qrup ictimai fəal tərəfindən direktor Ülvi Həsənlinin təşəbbüsü ilə yaradılmışdır. Media orqanının yaradılmasındakı məqsədlərdən və onun fəaliyyət istiqamətlərindən biri korrupsiyanın Azərbaycanda güc bərabərsizliyini və sosial-iqtisadi bərabərsizliyi artıraraq cəmiyyətə zərərli təsirlərini vurğulamaq idi.Saytın baş redaktoru, jurnalist və hüquq müdafiəçisi Sevinc Vaqifqızı isə daha əvvəl Meydan TV müstəqil mühacir media qurumunda 9 il jurnalist olaraq çalışmış və bir sıra dövlət rəsmiləri, o cümlədən Prezident İlham Əliyev və ailəsi ilə bağlı korrupsiya araşdırmalarında mühüm rol oynamışdır."
+      "headline": "ABZAS MEDIA HADİSƏLƏRİ (2016–2025)",
+      "text": "Abzas Media 2016-cı ildə yaradılmış müstəqil onlayn media qurumudur və 2022–2025-ci illərdə Azərbaycanda yüksək vəzifəli şəxslərin korrupsiya əməllərini ifşa edən çoxsaylı jurnalist araşdırmaları ilə tanınıb."
+    },
+    "background": {
+      "color": "#facc15"
     }
   },
+  "eras": [
+    {
+      "start_date": { "year": "2016" },
+      "end_date": { "year": "2016" },
+      "text": { "headline": "Yarandığı Tarix" },
+      "background": { "color": "#4ade80" }
+    },
+    {
+      "start_date": { "year": "2022" },
+      "end_date": { "year": "2023" },
+      "text": { "headline": "Araşdırmalar" },
+      "background": { "color": "#3b82f6" }
+    },
+    {
+      "start_date": { "year": "2023", "month": "11" },
+      "end_date": { "year": "2024", "month": "2" },
+      "text": { "headline": "Həbslər" },
+      "background": { "color": "#ef4444" }
+    },
+    {
+      "start_date": { "year": "2023", "month": "12" },
+      "end_date": { "year": "2025", "month": "1" },
+      "text": { "headline": "Məhkəmə Prosesi" },
+      "background": { "color": "#8b5cf6" }
+    },
+    {
+      "start_date": { "year": "2023", "month": "11" },
+      "end_date": { "year": "2025", "month": "4" },
+      "text": { "headline": "Beynəlxalq Reaksiya" },
+      "background": { "color": "#0ea5e9" }
+    }
+  ],
   "events": [
     {
       "start_date": { "year": "2016", "month": "1", "day": "1" },
@@ -20,31 +55,32 @@
         "url": "https://raw.githubusercontent.com/subhanchess/Abzasmedia/main/images/images-2.jpeg",
         "caption": "Abzas Media loqosu"
       },
-      "group": "Yarandığı tarix",
+      "group": "Yarandığı Tarix",
       "background": { "color": "#4ade80" }
     },
     {
       "start_date": { "year": "2022", "month": "1", "day": "1" },
       "text": {
         "headline": "Korrupsiya araşdırmaları başlayır",
-        "text": "Prezident İlham Əliyevin ailəsi və yüksək vəzifəli məmurlarla bağlı ciddi korrupsiya araşdırmaları başladı."
+        "text": "Abzas Media Prezident İlham Əliyevin ailəsi və yüksək vəzifəli məmurlarla bağlı ciddi korrupsiya araşdırmalarına başlayır."
       },
       "media": {
         "url": "https://raw.githubusercontent.com/subhanchess/Abzasmedia/main/images/photo_2024-12-24_13.05.52.jpeg",
         "caption": "Araşdırmaların başlanması"
       },
       "group": "Araşdırmalar",
-      "background": { "color": "#facc15" }
+      "background": { "color": "#3b82f6" }
     },
     {
       "start_date": { "year": "2023", "month": "11", "day": "21" },
       "text": {
         "headline": "Sevinc Vaqifqızının həbsi",
-        "text": "Sevinc Vaqifqızı İstanbuldan qayıdarkən saxlanıldı və qaçaqmalçılıq ittihamı ilə həbs olundu."
+        "text": "Sevinc Vaqifqızı İstanbuldan qayıdarkən polis tərəfindən saxlanıldı və qaçaqmalçılıq ittihamı ilə həbs edildi."
       },
       "media": {
         "url": "https://img.youtube.com/vi/C5eU28KygXk/maxresdefault.jpg",
-        "caption": "Sevinc Vaqifqızı (YouTube link: https://www.youtube.com/watch?v=C5eU28KygXk)"
+        "caption": "Sevinc Vaqifqızı məhkəmədə",
+        "thumbnail": "https://img.youtube.com/vi/C5eU28KygXk/default.jpg"
       },
       "group": "Həbslər",
       "background": { "color": "#ef4444" }
@@ -53,33 +89,20 @@
       "start_date": { "year": "2023", "month": "11", "day": "22" },
       "text": {
         "headline": "Beynəlxalq təşkilatların reaksiyası",
-        "text": "HRW və Amnesty International jurnalistlərin həbslərini pisləyən açıqlamalar verdi."
+        "text": "HRW və Amnesty International jurnalistlərin həbslərini pislədi."
       },
       "media": {
         "url": "https://raw.githubusercontent.com/subhanchess/Abzasmedia/main/images/observerbd.com_1649478014_TsHh.jpg",
         "caption": "HRW bəyanatı"
       },
-      "group": "Beynəlxalq reaksiya",
-      "background": { "color": "#60a5fa" }
-    },
-    {
-      "start_date": { "year": "2023", "month": "11", "day": "23" },
-      "text": {
-        "headline": "Kəkalov və Absalamova ifadə verir",
-        "text": "Kəkalov həbs olundu, Absalamova şahid qismində ifadə verdi."
-      },
-      "media": {
-        "url": "https://abzas.org/wp-content/uploads/2023/11/court.jpg",
-        "caption": "Məhkəmə prosesi"
-      },
-      "group": "Məhkəmə prosesi",
-      "background": { "color": "#a78bfa" }
+      "group": "Beynəlxalq Reaksiya",
+      "background": { "color": "#0ea5e9" }
     },
     {
       "start_date": { "year": "2023", "month": "11", "day": "30" },
       "text": {
-        "headline": "Absalamovanın həbsi",
-        "text": "Nərgiz Absalamova saxlanıldı və ona ittiham irəli sürüldü."
+        "headline": "Nərgiz Absalamovanın həbsi",
+        "text": "Absalamova qaçaqmalçılıq ittihamı ilə saxlanıldı."
       },
       "media": {
         "url": "https://jam-news.net/images/absalamova_arrest.jpg",
@@ -92,11 +115,11 @@
       "start_date": { "year": "2023", "month": "12", "day": "13" },
       "text": {
         "headline": "Hafiz Babalının həbsi",
-        "text": "Jurnalist Hafiz Babalı da eyni ittihamla saxlanıldı."
+        "text": "Babalı iqtisadi mövzularda yazdığı üçün həbs edildi."
       },
       "media": {
         "url": "https://abzas.org/wp-content/uploads/2023/12/hafiz_babali_arrest.jpg",
-        "caption": "Babalının saxlanılması"
+        "caption": "Hafiz Babalı həbs olunur"
       },
       "group": "Həbslər",
       "background": { "color": "#ef4444" }
@@ -105,11 +128,11 @@
       "start_date": { "year": "2024", "month": "1", "day": "15" },
       "text": {
         "headline": "Elnarə Qasımovanın həbsi",
-        "text": "Abzas Media-nın reportyoru Elnarə Qasımova həbs edildi."
+        "text": "Jurnalist Elnarə Qasımova da həbs edildi."
       },
       "media": {
         "url": "https://jam-news.net/images/elnare_qasimova_court.jpg",
-        "caption": "Qasımovanın məhkəmə görüntüsü"
+        "caption": "Elnarə Qasımovanın məhkəmə görüntüsü"
       },
       "group": "Həbslər",
       "background": { "color": "#ef4444" }
@@ -117,28 +140,28 @@
     {
       "start_date": { "year": "2024", "month": "12", "day": "17" },
       "text": {
-        "headline": "Məhkəmə prosesi başladı",
-        "text": "Abzas Media işi üzrə məhkəmə başladı, jurnalistlər ittihamları rədd etdi."
+        "headline": "Məhkəmə prosesi başlayır",
+        "text": "Abzas Media əməkdaşları məhkəmə qarşısına çıxarılır."
       },
       "media": {
         "url": "https://jam-news.net/images/abzas_media_court_trial.jpg",
-        "caption": "Bakı Ağır Cinayətlər Məhkəməsi"
+        "caption": "Məhkəmə prosesi"
       },
-      "group": "Məhkəmə prosesi",
-      "background": { "color": "#a78bfa" }
+      "group": "Məhkəmə Prosesi",
+      "background": { "color": "#8b5cf6" }
     },
     {
       "start_date": { "year": "2025", "month": "4", "day": "1" },
       "text": {
         "headline": "Beynəlxalq dəstək",
-        "text": "ABŞ və beynəlxalq qurumlar jurnalistlərin azadlığa buraxılmasını tələb etdi."
+        "text": "ABŞ və digər beynəlxalq qurumlar jurnalistlərin azadlığa buraxılmasını tələb edir."
       },
       "media": {
         "url": "https://rsf.org/sites/default/files/styles/main_image_square/public/2024-international-reaction.jpg",
-        "caption": "Blinkenin bəyanatı"
+        "caption": "Blinken və RSF-in çağırışı"
       },
-      "group": "Beynəlxalq reaksiya",
-      "background": { "color": "#60a5fa" }
+      "group": "Beynəlxalq Reaksiya",
+      "background": { "color": "#0ea5e9" }
     }
   ]
 }
