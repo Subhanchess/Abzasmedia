@@ -14,26 +14,26 @@
   },
   "eras": [
     {
-      "start_date": { "year": "2016", "month": "1", "day": "1" },
-      "end_date": { "year": "2016", "month": "12", "day": "31" },
+      "start_date": { "year": "2016" },
+      "end_date": { "year": "2016" },
       "text": { "headline": "Yarandığı Tarix" },
       "background": { "color": "#3b82f6" }
     },
     {
-      "start_date": { "year": "2022", "month": "1", "day": "1" },
-      "end_date": { "year": "2023", "month": "12", "day": "31" },
+      "start_date": { "year": "2022" },
+      "end_date": { "year": "2023" },
       "text": { "headline": "Araşdırmalar" },
       "background": { "color": "#3b82f6" }
     },
     {
-      "start_date": { "year": "2023", "month": "11", "day": "1" },
-      "end_date": { "year": "2024", "month": "2", "day": "28" },
+      "start_date": { "year": "2023", "month": "11" },
+      "end_date": { "year": "2024", "month": "2" },
       "text": { "headline": "Həbslər" },
       "background": { "color": "#3b82f6" }
     },
     {
-      "start_date": { "year": "2023", "month": "12", "day": "1" },
-      "end_date": { "year": "2025", "month": "1", "day": "31" },
+      "start_date": { "year": "2023", "month": "12" },
+      "end_date": { "year": "2025", "month": "1" },
       "text": { "headline": "Məhkəmə Prosesi" },
       "background": { "color": "#3b82f6" }
     },
@@ -58,18 +58,6 @@
       "group": "Yarandığı Tarix"
     },
     {
-      "start_date": { "year": "2022", "month": "1", "day": "1" },
-      "text": {
-        "headline": "Korrupsiya araşdırmaları başlayır",
-        "text": "Prezident İlham Əliyevin ailəsi və yüksək vəzifəli məmurlarla bağlı ciddi korrupsiya araşdırmaları başladı."
-      },
-      "media": {
-        "url": "https://raw.githubusercontent.com/subhanchess/Abzasmedia/main/images/photo_2024-12-24_13.05.52.jpeg",
-        "caption": "Araşdırmaların başlanması"
-      },
-      "group": "Araşdırmalar"
-    },
-    {
       "start_date": { "year": "2023", "month": "11", "day": "21" },
       "text": {
         "headline": "Sevinc Vaqifqızının həbsi",
@@ -80,30 +68,6 @@
         "caption": "Sevinc Vaqifqızı məhkəmədə"
       },
       "group": "Həbslər"
-    },
-    {
-      "start_date": { "year": "2023", "month": "12", "day": "13" },
-      "text": {
-        "headline": "Hafiz Babalının həbsi",
-        "text": "Babalı iqtisadi mövzularda yazdığı üçün həbs edildi."
-      },
-      "media": {
-        "url": "https://abzas.org/wp-content/uploads/2023/12/hafiz_babali_arrest.jpg",
-        "caption": "Hafiz Babalı həbs olunur"
-      },
-      "group": "Həbslər"
-    },
-    {
-      "start_date": { "year": "2025", "month": "4", "day": "1" },
-      "text": {
-        "headline": "Beynəlxalq dəstək və nəticələr",
-        "text": "ABŞ və beynəlxalq təşkilatlar jurnalistlərin dərhal sərbəst buraxılmasını tələb etdilər."
-      },
-      "media": {
-        "url": "https://rsf.org/sites/default/files/styles/main_image_square/public/2024-international-reaction.jpg",
-        "caption": "Blinkenin bəyanatı"
-      },
-      "group": "Beynəlxalq Reaksiya"
     }
   ]
 }
