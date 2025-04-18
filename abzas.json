@@ -9,7 +9,7 @@
       "text": "Abzas Media 2016-cı ildə yaradılmış müstəqil onlayn media qurumudur və 2022–2025-ci illərdə Azərbaycanda yüksək vəzifəli şəxslərin korrupsiya əməllərini ifşa edən çoxsaylı jurnalist araşdırmaları ilə tanınıb."
     },
     "background": {
-      "color": "#3b82f6"
+      "color": "#facc15"
     }
   },
   "eras": [
@@ -72,15 +72,22 @@
       "background": { "color": "#3b82f6" }
     },
     {
-      "start_date": { "year": "2023", "month": "11", "day": "21" },
-      "text": {
-        "headline": "Sevinc Vaqifqızının həbsi",
-        "text": "Sevinc Vaqifqızı İstanbuldan qayıdarkən polis tərəfindən saxlanıldı və qaçaqmalçılıq ittihamı ilə həbs edildi."
+  "start_date": { "year": "2023", "month": "11", "day": "21" },
+  "text": {
+    "headline": "Sevinc Vaqifqızının həbsi",
+    "text": "Sevinc Vaqifqızı İstanbuldan qayıdarkən polis tərəfindən saxlanıldı və qaçaqmalçılıq ittihamı ilə həbs edildi."
+  },
+  "media": {
+    "url": "https://www.youtube.com/embed/fgVMfR1J_pA",
+    "caption": "Sevinc Vaqifqızı məhkəmədə"
+  },
+  "group": "Həbslər",
+  "background": { "color": "#3b82f6" }
+}
       },
       "media": {
         "url": "https://img.youtube.com/vi/C5eU28KygXk/maxresdefault.jpg",
-        "caption": "Sevinc Vaqifqızı məhkəmədə",
-        "thumbnail": "https://img.youtube.com/vi/C5eU28KygXk/default.jpg"
+        "caption": "Sevinc Vaqifqızı məhkəmədə"
       },
       "group": "Həbslər",
       "background": { "color": "#3b82f6" }
