@@ -55,8 +55,7 @@
         "url": "https://raw.githubusercontent.com/subhanchess/Abzasmedia/main/images/images-2.jpeg",
         "caption": "Abzas Media loqosu"
       },
-      "group": "Yarandığı Tarix",
-      "background": { "color": "#3b82f6" }
+      "group": "Yarandığı Tarix"
     },
     {
       "start_date": { "year": "2022", "month": "1", "day": "1" },
@@ -68,8 +67,7 @@
         "url": "https://raw.githubusercontent.com/subhanchess/Abzasmedia/main/images/photo_2024-12-24_13.05.52.jpeg",
         "caption": "Araşdırmaların başlanması"
       },
-      "group": "Araşdırmalar",
-      "background": { "color": "#3b82f6" }
+      "group": "Araşdırmalar"
     },
     {
       "start_date": { "year": "2023", "month": "11", "day": "21" },
@@ -81,21 +79,19 @@
         "url": "https://img.youtube.com/vi/C5eU28KygXk/maxresdefault.jpg",
         "caption": "Sevinc Vaqifqızı məhkəmədə"
       },
-      "group": "Həbslər",
-      "background": { "color": "#3b82f6" }
+      "group": "Həbslər"
     },
     {
       "start_date": { "year": "2023", "month": "12", "day": "13" },
       "text": {
         "headline": "Hafiz Babalının həbsi",
-        "text": "Babalı iqtisadi mövzular üzrə yazıları səbəbiylə həbs edildi."
+        "text": "Babalı iqtisadi mövzularda yazdığı üçün həbs edildi."
       },
       "media": {
         "url": "https://abzas.org/wp-content/uploads/2023/12/hafiz_babali_arrest.jpg",
-        "caption": "Babalının saxlanılması"
+        "caption": "Hafiz Babalı həbs olunur"
       },
-      "group": "Həbslər",
-      "background": { "color": "#3b82f6" }
+      "group": "Həbslər"
     },
     {
       "start_date": { "year": "2025", "month": "4", "day": "1" },
@@ -107,8 +103,7 @@
         "url": "https://rsf.org/sites/default/files/styles/main_image_square/public/2024-international-reaction.jpg",
         "caption": "Blinkenin bəyanatı"
       },
-      "group": "Beynəlxalq Reaksiya",
-      "background": { "color": "#3b82f6" }
+      "group": "Beynəlxalq Reaksiya"
     }
   ]
 }
